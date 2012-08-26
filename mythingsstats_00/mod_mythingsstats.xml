@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" client="site">
+	<name>MyThings Statistik Modul</name>
+	<author>Axel und Christiane</author>
+	<creationDate>Juli 2012</creationDate>
+	<copyright>Copyright (C) Axel Tüting</copyright>
+	<license>GNU General Public License version 3 or later</license>
+	<authorEmail>tueting@time4mambo.de</authorEmail>
+	<authorUrl>http://www.time4mambo.de</authorUrl>
+	<version>1.0</version>
+	<description>Ein erstes einfaches Statistikmodul für die Komponente 'MyThings'</description>
+	<files>
+		<filename module="mod_mythingsstats">mod_mythingsstats.php</filename>
+		<filename module="mod_mythingsstats">helper.php</filename>
+		<filename module="mod_mythingsstats">tmpl/default.php</filename>
+	</files>
+</extension>
